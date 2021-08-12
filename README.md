@@ -1,9 +1,8 @@
-### Hi! 
+### Olá, seja bem-vindo! 
 
-- 🌱 I’m currently learning React Native , JavaScript
-- 🤔 I’m looking for help with JavaScript, React Native
-- 💬 Ask me about anything
-- 📫 How to reach me: viniciuscdess04@gmail.com
+- 🌱 Estou aprendendo atualmente React Native e JavaScript;
+- 💬 Pergunte a mim sobre qualquer coisa, farei o possivel pra ajudar;
+- 📫 Entre em contato: viniciuscdess04@gmail.com
 <div>
   <a href="https://github.com/viniciuscdess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuscdess&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -21,7 +20,7 @@
 
   <div>
   <a href="https://www.instagram.com/eov1nci/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "viniciuscdess04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:viniciuscdess04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciuscdess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
