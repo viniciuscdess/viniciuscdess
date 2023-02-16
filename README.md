@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 
 
-- 🌱 Estou aprendendo atualmente JavaScript e PHP;
+- 🌱 Estou aprendendo atualmente JavaScript, PHP e Laravel;
 - 💬 Pergunte a mim sobre qualquer coisa, farei o possivel pra ajudar;
 - 📫 Entre em contato: viniciuscdess04@gmail.com
 
