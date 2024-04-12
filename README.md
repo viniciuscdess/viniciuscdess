@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo! 
 
-- 🌱 Estou aprendendo atualmente JavaScript, PHP, Laravel e MySql;
+- 🌱 Trabalhando como Desenvolvedor Back-End;
 - 💬 Pergunte a mim sobre qualquer coisa, farei o possivel pra ajudar;
 - 📫 Entre em contato: viniciuscdess04@gmail.com
 
